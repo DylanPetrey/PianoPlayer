@@ -1,5 +1,5 @@
 # works on the website:
-# ffffa
+# http://tanksw.com/piano-tiles/
 
 import numpy as np
 from PIL import ImageGrab
